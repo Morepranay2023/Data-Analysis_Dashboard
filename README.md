@@ -21,6 +21,6 @@ The dataset includes detailed information such as order IDs, customer details, p
 - Enhancing operational efficiency
 - Supporting data-driven decision making
 
-## Dashboard
-
+## Dashboard 
+< a href=" https://github.com/Morepranay2023/Data-Analysis_Dashboard/blob/main/dashboard.png ">
 
